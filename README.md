@@ -6,9 +6,9 @@ I am a Front-End Web Developer based in the DFW Metroplex activelly seeking oppo
 
 💌Contact me:  <a href="mailto:jonathantucker@yahoo.com?subject=You're so awesome!">Email Us</a>
 
-Follow my <a href="https://www.linkedin.com/in/jontucklogic">LinkedIn</a>. You'll be glad you did!
+Follow my <a href="https://www.linkedin.com/in/jontucklogic" target="_blank">LinkedIn</a>. You'll be glad you did!
 
-✍🏿My world famous <a href="https://jontucklogic.hashnode.dev/">BLOG</a>  . Subscribe and improve your life.
+✍🏿My world famous <a href="https://jontucklogic.hashnode.dev/" target="_blank">BLOG</a>  . Subscribe and improve your life.
 
 <strong>Problem Solver:</strong>
 Logic, patience, communication, and attention to detail are my underlying strengths. I have a knack for not panicking in the face of complexity. I break problems down into manageable chunks and tackle them with the tools at my disposal.
