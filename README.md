@@ -8,7 +8,7 @@
 
 <p>Follow my <a href="https://www.linkedin.com/in/jontucklogic" target="_blank">LinkedIn</a>. You'll be glad you did!</p>
 
-<p>✍🏿My world famous <a href="https://jontucklogic.hashnode.dev/" target="_blank">BLOG.</a> <italics>Subscribe and improve your life.</italics></p>
+<p>✍🏿My world famous <a href="https://jontucklogic.hashnode.dev/" target="_blank">BLOG.</a> <i>Subscribe and improve your life.</i></p>
 
 <h3>Problem Solver:</h3>
 <p>Logic, patience, communication, and attention to detail are my underlying strengths. I have a knack for not panicking in the face of complexity. I break problems down into manageable chunks and tackle them with the tools at my disposal.</p>
