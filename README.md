@@ -2,7 +2,7 @@
 
 <p>I am Jonathan Tucker.</p> 
 
-<p>I am a Full Stack JavaScript Developer based in the DFW Metroplex activelly seeking opportunities.</p>
+<p>I am an aspiring Software Developer based in the DFW Metroplex activelly seeking opportunities.</p>
 
 <p>💌Contact me:  <a href="mailto:jonathantucker@yahoo.com?subject=You're so awesome!">Email Us</a></p>
 
